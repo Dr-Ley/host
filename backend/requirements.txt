@@ -1,9 +1,0 @@
-Django>=5.0
-djangorestframework
-django-cors-headers
-gunicorn
-mongoengine
-dnspython
-pymongo
-python-dotenv
-whitenoise
